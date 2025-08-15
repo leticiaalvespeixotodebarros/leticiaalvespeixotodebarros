@@ -12,10 +12,14 @@ Personal
 ## 🙋‍♂ Sobre mim
 
 - Bacharel em Direito pela Universidade Fedeal de Goiás (UFG)
-- Contadora pela Universidade Católica Dom Bosco
+- Graduada em Ciências Contábeis pela Universidade Católica Dom Bosco
+- Advogada Trabaslhista e contadora
 - Sócia da Barros e Peixoto Assessoria empresarial
 - Graduanda em Tecnologia em Inteligência Artificial pela Fatesg
 - Cursando MBA em Inteligência Artificial para Gestores pela Fatesg
+- Graduada em inglês avançado pelo Senac
+- Graduada em francês intermediário pelo Centro de Línguas da Universidade Federeal de Goiás (UFG)
+- Integrante da Startup Somalac
 
 ---
 
