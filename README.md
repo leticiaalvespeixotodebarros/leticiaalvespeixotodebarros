@@ -1,10 +1,10 @@
-# Let-cia-Alves-Peixoto
-Personal
+# Letícia Alves Peixoto de Barros
+Catálogo Pessoal
 <h1 align="center">Bem-vindo ao meu perfil GitHub 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeticiaAlvesPeixoto&show_icons=true&theme=dracula" width="410"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaAlvesPeixoto&layout=compact&theme=dracula" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leticiaalvespeixotodebarros&show_icons=true&theme=dracula" width="410"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaalvespeixotodebarros&layout=compact&theme=dracula" width="350"/>
 </p>
 
 ---
@@ -17,7 +17,7 @@ Personal
 - Sócia da Barros e Peixoto Assessoria empresarial
 - Graduanda em Tecnologia em Inteligência Artificial pela Fatesg
 - Cursando MBA em Inteligência Artificial para Gestores pela Fatesg
-- Graduada em inglês avançado pelo Senac
+- Graduadaa em inglês avançado pelo Senac
 - Graduada em francês intermediário pelo Centro de Línguas da Universidade Federeal de Goiás (UFG)
 - Integrante da Startup Somalac
 
@@ -42,7 +42,7 @@ Personal
 ## 📊 Resumo do Perfil GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeticiaAlvesPeixoto&theme=2077" alt="Resumo GitHub"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leticiaalvespeixotodebarros&theme=2077" alt="Resumo GitHub"/>
 </p>
 
 ---
@@ -50,7 +50,7 @@ Personal
 ## 📂 Projetos Destacados
 
 
-- 🔗 [Veja todos os meus projetos no GitHub](https://github.com/LeticiaAlvesPeixoto?tab=repositories)
+- 🔗 [Veja todos os meus projetos no GitHub](https://github.com/leticiaalvespeixotodebarros?tab=repositories)
 
 ---
 
