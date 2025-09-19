@@ -14,12 +14,15 @@ Catálogo Pessoal
 - Bacharel em Direito pela Universidade Fedeal de Goiás (UFG)
 - Graduada em Ciências Contábeis pela Universidade Católica Dom Bosco
 - Advogada Trabaslhista e contadora
-- Sócia da Barros e Peixoto Assessoria empresarial
+- Sócia fundadora e administradora da Barros e Peixoto Assessoria empresarial desde 2019
+- Sociedade na Barros Peixoto e Guilardi Sociedade de advogados 2017 - 2021
 - Graduanda em Tecnologia em Inteligência Artificial pela Fatesg
 - Cursando MBA em Inteligência Artificial para Gestores pela Fatesg
 - Graduadaa em inglês avançado pelo Senac
 - Graduada em francês intermediário pelo Centro de Línguas da Universidade Federeal de Goiás (UFG)
 - Integrante da Startup Somalac
+- Estágio no Tribunal Regional do Trabalho - gabinete de desembargador 2015 - 2015
+- Estágio no Tribunal Regional Eleitoral - gabinete - 2015 - 2016
 
 ---
 
